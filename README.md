@@ -4,6 +4,9 @@
 
 Striker is an offensive information and vulnerability scanner.
 
+## Requirement
+- mechanize加入的作用是爬虫，爬取页面
+
 ## Features
 
 Just supply a domain name to **Striker** and it will automatically do the following for you:
